@@ -25,9 +25,7 @@
     "webpack-dev-server": "^5.2.2"
   },
   "dependencies": {
-    "@wanoo21/countdown-time": "^1.4.3",
-    "gsap": "^3.13.0",
-    "jquery": "^3.7.1",
-    "lodash": "^4.17.21"
+    "flipclock": "^1.0.1",
+    "gsap": "^3.13.0"
   }
 }
